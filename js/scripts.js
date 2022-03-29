@@ -52,3 +52,11 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+function whatsapp(){
+    url1 = "https://wa.link/zpclwv";
+    window.open(url1,"_blank");
+}
+function pokemon(){
+    url1 = "pokemon.html";
+    window.open(url1,"_blank");
+}
