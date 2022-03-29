@@ -57,6 +57,6 @@ function whatsapp(){
     window.open(url1,"_blank");
 }
 function pokemon(){
-    url1 = "pokemon.html#portfolio";
-    window.open(url1,"_blank");
+    url2 = "pokemon.html#portfolio";
+    window.open(url2,"_blank");
 }
